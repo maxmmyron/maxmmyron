@@ -1,5 +1,3 @@
-Yo.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="name_light.png">
   <source media="(prefers-color-scheme: light)" srcset="name_dark.png">
